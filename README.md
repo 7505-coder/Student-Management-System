@@ -1,4 +1,4 @@
-# Java Lab Assignment 2 — Student Management System
+# Student Management System
 
 This project includes:
 - Abstract class `Person`
